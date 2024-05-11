@@ -4,7 +4,6 @@ import profile from "../assets/background 3.jpg";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 // import { faCircleArrowRight } from "@fortawesome/free-solid-svg-icons";
 import {
-  faGithub,
   faInstagram,
   faLinkedinIn,
   faWhatsapp,
@@ -51,12 +50,9 @@ export default function Hiro() {
           <div className="flex flex-col w-full mt-8">
             <h1 className="text-xl text-gray-400">Hi, I'm</h1>
             <h1 className="text-2xl font-bold">Nawal Mughram</h1>
-            <p class="text-xl font-bold text-gray-300">Front-End Developer</p>
+            <p class="text-xl font-bold text-gray-300">programmed under construction</p>
             <p className="text-md font-light text-gray-400 ">
-              Enthusiastic and motivated self-learning in Information
-              Technology. Interested in exploring about Computer Network, and
-              Web Development and Mobile Application Development . Now I am
-              looking for more experience in my field.
+            A university student specializing in information technology and cybersecurity and a lover of programming and website development
             </p>
           </div>
           {/* <a href='http://blog.dama.ink' className='mt-2 block'>Go to My Blog <FontAwesomeIcon className='ml-2' icon={faCircleArrowRight}/> </a> */}
@@ -64,7 +60,7 @@ export default function Hiro() {
           <ul className="flex mt-2 gap-4 items-center">
             <li>
               <a
-                href="https://github.com/EHAB7k"
+                href="https://www.instagram.com/27.iilli?igsh=MWVoYnplbno4azZ5dg%3D%3D&utm_source=qr"
                 rel="noreferrer"
                 target="_blank"
               >
@@ -73,7 +69,7 @@ export default function Hiro() {
             </li>
             <li>
               <a
-                href="https://github.com/EHAB7k"
+                href="https://twitter.com/Nawali27"
                 rel="noreferrer"
                 target="_blank"
               >
@@ -85,7 +81,7 @@ export default function Hiro() {
                     </li> */}
             <li>
               <a
-                href="https://www.linkedin.com/in/ehabhakami/"
+                href="https://www.linkedin.com/in/%D9%86%D9%88%D8%A7%D9%84-%D9%85%D8%BA%D8%B1%D9%85-056404300?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
                 rel="noreferrer"
                 target="_blank"
               >
@@ -94,7 +90,7 @@ export default function Hiro() {
             </li>
             <li>
               <a
-                href="https://wa.me/+966550199599"
+                href="https://wa.me/+966556129483"
                 rel="noreferrer"
                 target="_blank"
               >
