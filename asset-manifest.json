@@ -1,28 +1,12 @@
 {
   "files": {
     "main.css": "/Portfolio-React/static/css/main.b03db15f.css",
-    "main.js": "/Portfolio-React/static/js/main.48097fe1.js",
-    "static/js/453.d7d61b79.chunk.js": "/Portfolio-React/static/js/453.d7d61b79.chunk.js",
-    "static/media/certificate-Eng.png": "/Portfolio-React/static/media/certificate-Eng.6ac88d31b122adc641c1.png",
-    "static/media/certificate-dom.png": "/Portfolio-React/static/media/certificate-dom.894796b9b0fd909ec91d.png",
-    "static/media/certificate-javascript-102.png": "/Portfolio-React/static/media/certificate-javascript-102.339dc935cb0001091c72.png",
-    "static/media/certificate-javascript-101.png": "/Portfolio-React/static/media/certificate-javascript-101.a2510a97fd125b500ef3.png",
-    "static/media/certificate-swift-102.png": "/Portfolio-React/static/media/certificate-swift-102.22754ecb5b7c60e7a0fb.png",
-    "static/media/certificate-node.js.png": "/Portfolio-React/static/media/certificate-node.js.35aebcf029c5380cef4b.png",
-    "static/media/certificate-react101.png": "/Portfolio-React/static/media/certificate-react101.75ffda70dd778ecbe7f0.png",
-    "static/media/certificate-react102.png": "/Portfolio-React/static/media/certificate-react102.bf32dabaa052c91609ca.png",
-    "static/media/certificate-swift-101.png": "/Portfolio-React/static/media/certificate-swift-101.19ccab6c49df587ad589.png",
-    "static/media/certificate-swift-103.png": "/Portfolio-React/static/media/certificate-swift-103.4eb4b466c683209c6df0.png",
-    "static/media/certificate-bootstrap.png": "/Portfolio-React/static/media/certificate-bootstrap.b9c4086d4a4385e507c2.png",
-    "static/media/certificate-html.png": "/Portfolio-React/static/media/certificate-html.bf8ca2ec991a1a3c8cef.png",
-    "static/media/certificate-css.png": "/Portfolio-React/static/media/certificate-css.a69cd93642e7c0afac62.png",
+    "main.js": "/Portfolio-React/static/js/main.75feae87.js",
+    "static/js/453.32d2d8a0.chunk.js": "/Portfolio-React/static/js/453.32d2d8a0.chunk.js",
     "static/media/mikrotik.svg": "/Portfolio-React/static/media/mikrotik.d2e17a6764779d1cc982433d85aeeb58.svg",
     "static/media/background 3.jpg": "/Portfolio-React/static/media/background 3.8bcb7fb6b7e2a83e92c5.jpg",
-    "static/media/besic-python.png": "/Portfolio-React/static/media/besic-python.d5f6cff42385c3199ca0.png",
-    "static/media/front-end-framework.png": "/Portfolio-React/static/media/front-end-framework.2d0d0b700a8ec3a8df74.png",
-    "static/media/mtcna.jpg": "/Portfolio-React/static/media/mtcna.2ee5684f51d76ad95490.jpg",
     "static/media/eCv2023.pdf": "/Portfolio-React/static/media/eCv2023.7871348de3a6b97d90d5.pdf",
-    "static/media/05-Soft Skills-RUH-093.png": "/Portfolio-React/static/media/05-Soft Skills-RUH-093.962aae292f7a2d29cd90.png",
+    "static/media/_121.jpg": "/Portfolio-React/static/media/5906843440036037061_121.423bbc4ad62dffd3f538.jpg",
     "static/media/linux.svg": "/Portfolio-React/static/media/linux.ff969ad1bae76cb9a7cc6aca65fd15f5.svg",
     "static/media/kubernetes.svg": "/Portfolio-React/static/media/kubernetes.9c2b252df012670856cc2db6e7364d84.svg",
     "static/media/react.svg": "/Portfolio-React/static/media/react.e27571eaed899c642345e71163624ef9.svg",
@@ -46,11 +30,11 @@
     "static/media/windows.svg": "/Portfolio-React/static/media/windows.680a11acd0ab401f69e83c7caba17dc0.svg",
     "index.html": "/Portfolio-React/index.html",
     "main.b03db15f.css.map": "/Portfolio-React/static/css/main.b03db15f.css.map",
-    "main.48097fe1.js.map": "/Portfolio-React/static/js/main.48097fe1.js.map",
-    "453.d7d61b79.chunk.js.map": "/Portfolio-React/static/js/453.d7d61b79.chunk.js.map"
+    "main.75feae87.js.map": "/Portfolio-React/static/js/main.75feae87.js.map",
+    "453.32d2d8a0.chunk.js.map": "/Portfolio-React/static/js/453.32d2d8a0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b03db15f.css",
-    "static/js/main.48097fe1.js"
+    "static/js/main.75feae87.js"
   ]
 }
