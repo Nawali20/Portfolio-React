@@ -22,7 +22,7 @@ function App() {
       <Hiro />
       <Skills />
       {/* <Honors /> */}
-      {/* <Certs /> */}
+      <Certs />
       <Footer />
     </div>
   );
